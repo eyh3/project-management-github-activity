@@ -6,9 +6,5 @@ labels: Things I want to know
 assignees: ''
 
 ---
-- Javascript
-- PHP
-- Hosting a website
-- Other features on github
-- Html5
+
 

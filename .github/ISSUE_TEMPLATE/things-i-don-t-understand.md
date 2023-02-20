@@ -7,11 +7,4 @@ assignees: ''
 
 ---
 
-I don't understand 
-- What does docker even do
-- Linux terminal
-- Why do we use pycharm over vscode
-- What is watchtower
-- Can I write my own python code?
-- How to read error messages
-
+I don't understand <fill in what you don't here>
