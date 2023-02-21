@@ -120,4 +120,5 @@ Collaborating on GitHub:
 3. Hosting a website
 4. Other features on github
 5. Html5
+6. Bootstrap
 
