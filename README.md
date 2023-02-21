@@ -97,14 +97,6 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. What does docker even do
-2. Linux terminal
-3. Why do we use pycharm over vscode
-4. What is watchtower
-5. Can I write my own python code?
-6. How to read error messages
-
-### Things you don't understand about what we are doing / web development.
 1. Working on separate branches
 2. Merge conflict
 3. Terminal github syntax
@@ -112,6 +104,14 @@ Collaborating on GitHub:
 5. Docker commands
 6. How to host on localhost
 7. Semantic versioning
+
+### Things you don't understand about what we are doing / web development.
+1. What does docker even do
+2. Linux terminal
+3. Why do we use pycharm over vscode
+4. What is watchtower
+5. Can I write my own python code?
+6. How to read error messages
 
 ### Things you want to know next
 1. Javascript
