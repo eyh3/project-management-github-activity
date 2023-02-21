@@ -99,8 +99,8 @@ Collaborating on GitHub:
 ### Things you understand so far
 1. Working on separate branches
 2. Merge conflict
-3. Terminal github syntax
-4. Github classroom
+3. Terminal gitHub syntax
+4. GitHub classroom
 5. Docker commands
 6. How to host on localhost
 7. Semantic versioning
