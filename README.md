@@ -28,8 +28,26 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. Whatever
+1. What does docker even do
+2. Linux terminal
+3. Why do we use pycharm over vscode
+4. What is watchtower
+5. Can I write my own python code?
+6. How to read error messages
+
 ### Things you don't understand about what we are doing / web development.
-1. Add items to the list
+1. Working on separate branches
+2. Merge conflict
+3. Terminal github syntax
+4. Github classroom
+5. Docker commands
+6. How to host on localhost
+7. Semantic versioning
+
 ### Things you want to know next
-1. How to connect viewjs to elastic search
+1. Javascript
+2. PHP
+3. Hosting a website
+4. Other features on github
+5. Html5
+
