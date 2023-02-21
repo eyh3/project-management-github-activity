@@ -101,7 +101,7 @@ Collaborating on GitHub:
 2. Merge conflict
 3. Terminal gitHub syntax
 4. GitHub classroom
-5. Docker commands
+5. Docker commands on terminal
 6. How to host on localhost
 7. Semantic versioning
 8. Working in pycharm
