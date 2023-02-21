@@ -104,6 +104,7 @@ Collaborating on GitHub:
 5. Docker commands
 6. How to host on localhost
 7. Semantic versioning
+8. Working in pycharm
 
 ### Things you don't understand about what we are doing / web development.
 1. What does docker even do
