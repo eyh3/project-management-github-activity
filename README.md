@@ -108,7 +108,7 @@ Collaborating on GitHub:
 
 ### Things you don't understand about what we are doing / web development.
 1. What does docker even do
-2. Linux terminal
+2. Linux terminal vs Windows terminal
 3. Why do we use pycharm over vscode
 4. What is watchtower
 5. Can I write my own python code?
