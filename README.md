@@ -92,7 +92,6 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
-
 # Complete the Assignment By adding your issues to these 3 lists.
 
 ## Put your items here
@@ -100,6 +99,7 @@ Collaborating on GitHub:
 1. GitHub classroom [1]
 2. Docker commands on terminal [1]
 3. How to host on localhost [1]
+4. Avoiding Merge Conflicts [1]
 
 ### Things you don't understand about what we are doing / web development.
 1. What does docker even do [1]
@@ -110,3 +110,4 @@ Collaborating on GitHub:
 1. Javascript [1]
 2. write PHP code [1]
 3. Hosting a website without github pages [1]
+
