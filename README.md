@@ -97,27 +97,16 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. Working on separate branches [1]
-2. Merge conflict [1]
-3. Terminal gitHub syntax [1]
-4. GitHub classroom [1]
-5. Docker commands on terminal [1]
-6. How to host on localhost [1]
-7. Semantic versioning [1]
-8. Working in pycharm [1]
+1. GitHub classroom [1]
+2. Docker commands on terminal [1]
+3. How to host on localhost [1]
 
 ### Things you don't understand about what we are doing / web development.
 1. What does docker even do [1]
 2. Linux terminal vs Windows terminal [1]
-3. Why do we use pycharm over vscode [1]
-4. What is watchtower [1]
-5. Can I write my own python code? [1]
-6. How to read error messages [1]
+3. What is watchtower [1]
 
 ### Things you want to know next
 1. Javascript [1]
 2. write PHP code [1]
 3. Hosting a website without github pages [1]
-4. Other features on github [1]
-5. Html5 [1]
-6. Bootstrap [1]
