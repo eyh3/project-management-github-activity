@@ -117,7 +117,7 @@ Collaborating on GitHub:
 ### Things you want to know next
 1. Javascript
 2. write PHP code
-3. Hosting a website
+3. Hosting a website without github pages
 4. Other features on github
 5. Html5
 6. Bootstrap
