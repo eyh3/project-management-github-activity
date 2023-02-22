@@ -116,7 +116,7 @@ Collaborating on GitHub:
 
 ### Things you want to know next
 1. Javascript
-2. PHP
+2. write PHP code
 3. Hosting a website
 4. Other features on github
 5. Html5
