@@ -1,14 +1,10 @@
 ---
 name: Things I want to know
-about: Things I want to know
-title: Thing I want to know
-labels: Things I want to know
+about: Describe this issue template's purpose here.
+title: 'Thing I want to know: <file in title> [Thing I want to Knows]'
+labels: Things I learned
 assignees: ''
 
 ---
-- Javascript
-- PHP
-- Hosting a website
-- Other features on github
-- Html5
 
+Please describe what you want to know in less than 255 characters.
